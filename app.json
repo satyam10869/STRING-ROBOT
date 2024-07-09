@@ -10,7 +10,7 @@
   ],
     "env": {
         "BOT_TOKEN": {
-            "description": "6798222443:AAH7RfDy9QTRJCOBR-IlEXWZ6_PvTgCJATs",
+            "description": "",
             "required": true
         },  
         "MUST_JOIN": {
@@ -18,19 +18,19 @@
             "required": true      
         }, 
         "MONGO_URL": {
-            "description": "mongodb+srv://sumit333:sumit333@cluster0.emqf08v.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+            "description": "",
             "required": true
         },
         "API_ID": {
-            "description": "21513517",
+            "description": "",
             "required": true
         },
         "OWNER_ID": {
-            "description": "5904348755",
+            "description": "",
             "required": true
         }, 
         "API_HASH": {
-            "description": "838d3451485b95722878921877f12066",
+            "description": "",
             "required": true
         }
     },
